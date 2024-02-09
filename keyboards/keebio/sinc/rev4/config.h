@@ -3,6 +3,8 @@
 
 #pragma once
 
+#define ENCODER_DIRECTION_FLIP
+
 #define SPLIT_HAND_PIN GP4
 #define USB_VBUS_PIN GP14
 #define SERIAL_USART_FULL_DUPLEX
